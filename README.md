@@ -32,3 +32,7 @@ This project analyzes Amazon Seller Central sales data from January–June 2026 
 - May generated the highest revenue.
 - Custom Gaming Mouse Pad was the top-performing product.
 - Units sold peaked in May.
+
+## Dashboard Preview
+
+![Dashboard](Dashboard_SQL_Screenshot.png)
