@@ -27,9 +27,10 @@ This project analyzes Amazon Seller Central order data from January–August 202
 - Monthly Units Sold
 - Monthly Average Selling Price
 
-## SQL Setup (learning in progress)
-Created a MySQL database and tables for sales and product costs
-Further cleaning and KPI queries are in progress
+## Data Preparation
+- Cleaned order data in Power Query: promoted headers, set data types, fixed dates
+- Wrote DAX measures for revenue, orders and average order value
+- Set up a MySQL database (sales, orders and product-cost tables); SQL cleaning and KPI queries are in progress
 
 ## Business Insights
 - August generated the highest revenue; monthly units grew from 2 in January to 35 in August.
